@@ -8,7 +8,7 @@ A mobile application is a software system designed to run on mobile computing de
 - Access to hardware and OS features: Mobile applications run directly on the mobile operating system rather than inside a web browser. This gives them efficient access to device features such as the camera, GPS, sensors, Bluetooth, and storage.
 - Easy accessibility: Users can open a mobile application by tapping its icon instead of entering a URL or following a web link.
 
-
+---
 
 ## Immutable Variables 
 
@@ -32,3 +32,19 @@ Syntax
 Var name = “John”
 
 ```
+---
+## Types of Arguments in method 
+
+### Postional Arguments
+
+Are values pass into a function fullowing the order of the parmenters mesction in function declaration the function assings the values the parametrs based on their order.
+
+- ex :
+    finalbill(100, "name");
+
+### Named Arguments
+
+Allowa u to pass values into function by expelsitly mentioning the parameter name along with it's value this approach improves code readbillity while allowing you to invock the function by passing values onto paramters in any order.
+
+- ex: 
+    finalbill(amount=100,name="name");
