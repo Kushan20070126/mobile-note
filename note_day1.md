@@ -40,11 +40,16 @@ Var name = “John”
 Are values pass into a function fullowing the order of the parmenters mesction in function declaration the function assings the values the parametrs based on their order.
 
 - ex :
-    finalbill(100, "name");
 
+```
+    finalbill(100, "name");
+```
 ### Named Arguments
 
 Allowa u to pass values into function by expelsitly mentioning the parameter name along with it's value this approach improves code readbillity while allowing you to invock the function by passing values onto paramters in any order.
 
-- ex: 
+- ex:
+
+``` 
     finalbill(amount=100,name="name");
+```
