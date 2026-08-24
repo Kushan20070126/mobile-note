@@ -31,3 +31,42 @@ when{
 }
 
 ```
+
+---
+
+# Loop
+
+## Range 
+
+syntax : 
+
+```
+(counter in 1..10)
+```
+
+
+## Incremental Loop
+
+syntax : 
+
+```
+for(<variable> in <lower-bound>..<upper-bound> step <int>){
+    //statement
+}
+
+```
+
+## Decremental Loop
+
+Syntax : 
+
+```
+for(<variable> in <upperbound> down to <Lowerbound> step <int>){
+    //statement
+
+}
+
+```
+---
+
+
