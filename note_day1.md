@@ -60,4 +60,3 @@ Allowa u to pass values into function by expelsitly mentioning the parameter nam
 
 A default Paramter is a parmeter decaler with a default value if a value is not fast for a parameter with a default value during method invocation the default will be used for the parameter it allows us to declare optional parameters in a funtion it can be used to readuce the needs for method overloading.
 
-
